@@ -13,7 +13,7 @@ Welcome to our Trade Bot, a powerful tool designed to perform real-time trades i
 5. [Algorithm Details](#algorithm-details)
 6. [Risk Management](#risk-management)
 7. [Contributing](#contributing)
-8. [Authors](#authors)
+
 9. [License](#license)
 
 ## 📝 Overview
