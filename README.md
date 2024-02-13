@@ -119,11 +119,7 @@ The investments are protected by implementing effective risk management strategi
 ## 👷 Contributing
 We welcome contributions from the community. Feel free to submit bug reports, feature requests, or even pull requests to help improve the Trade Bot.
 
-## 🎓 Author
 
-<p>  <a href="https://github.com/riz-adnan"><b>Adnan Abbas Rizvi</b><a/><p/>
-<p> <a href="https://github.com/prakharmoses"><b>Prakhar Moses </b><a/></p>
-<p> <a href="https://github.com/cs21b037iittp"><b>Nandhavardhan </b><a/></p>
 
 ## 📰 License
 This Trade Bot is licensed under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license.
