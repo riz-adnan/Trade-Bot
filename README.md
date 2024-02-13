@@ -106,9 +106,6 @@ https://github.com/codeclubiittp/Trading_bot/assets/113628188/ed7c9f10-6def-4396
 
 Please use it at your own risk.
 
-### Contact Information:
-
-For any related queries contact: <a href = 'mailto:codeclub@iittp.ac.in'>codeclub@iittp.ac.in</a>
 
 ## 📋 Algorithm Details
 Our algorithms are designed using Machine Learning, historical market data, technical indicators, and other relevant factors to make perfect trading signals.
